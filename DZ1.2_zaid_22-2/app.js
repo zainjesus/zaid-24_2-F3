@@ -2,7 +2,7 @@ const block = document.querySelector(".block");
 
 window.addEventListener("load", function() {
     setTimeout(moveBlock, 1000);
-  });
+ });
   
 
 function moveBlock() {
