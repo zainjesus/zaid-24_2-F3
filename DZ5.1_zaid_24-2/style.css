@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(#000, rgb(60, 0, 255), #000);
+}
+
+.converter {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    padding: 30px 24px;
+    background-color: #222;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+    width: 400px;
+}
+
+.converter div {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    color: rgb(60, 0, 255)
+}
+
+input {
+    padding: 15px 10px;
+    color: #fff;
+    background: #333;
+    outline: none;
+    border: none;
+}
