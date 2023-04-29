@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 34px 24px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0px 11px 35px rgba(0, 0, 0, 0.08);
+    width: 270px;
+}
+
+.card img {
+   width: 100%;
+   height: 240px;
+   border-radius: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.name-price {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name {
+    font-size: 17px;
+}
+
+.price {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+}
+
+.now__price {
+    font-size: 20px;
+}
+
+.sale {
+    color: gray;
+    text-decoration: line-through;
+    font-size: 15px;
+}
+
+.description {
+    text-align: justify;
+    color: gray;
+}
+
+.reviews {
+    color: gray;
+    font-size: 14px;
+}

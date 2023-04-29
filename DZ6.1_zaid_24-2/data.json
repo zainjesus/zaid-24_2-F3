@@ -1,0 +1,84 @@
+{   
+    "products": [
+        {
+            "img": "media/3090.jpg",
+            "title": "RTX 3090",
+            "price": "3000$",
+            "sale": "3500$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 47229
+        },
+        {
+            "img": "media/iphon.jpg",
+            "title": "Iphon 14",
+            "price": "2000$",
+            "sale": "2500$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 13434
+        },
+        {
+            "img": "media/i7.png",
+            "title": "Intel Core i7",
+            "price": "1000$",
+            "sale": "1150$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 22404
+        },
+        {
+            "img": "media/razerviper.jpg",
+            "title": "Razer Viper",
+            "price": "130$",
+            "sale": "160$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 9738
+        },
+        {
+            "img": "media/gprox.webp",
+            "title": "Logitech G Pro X",
+            "price": "200$",
+            "sale": "238$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 12934
+        },
+        {
+            "img": "media/hyperx.jpg",
+            "title": "Hyperx Alloy Origin",
+            "price": "210$",
+            "sale": "240$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 7884
+        },
+        {
+            "img": "media/macbook.png",
+            "title": "MacBook pro 16",
+            "price": "3400$",
+            "sale": "800$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 37943
+        },
+        {
+            "img": "media/gprow.jpg",
+            "title": "G Pro wireless",
+            "price": "200$",
+            "sale": "221$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 17483
+        },
+        {
+            "img": "media/benq.jpg",
+            "title": "BENQ xl2411",
+            "price": "300$",
+            "sale": "3700$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 15948
+        },
+        {
+            "img": "media/asus.png",
+            "title": "VivoBook Pro 15",
+            "price": "1200$",
+            "sale": "1300$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam.",
+            "reviews": 23329
+        }
+    ] 
+}
